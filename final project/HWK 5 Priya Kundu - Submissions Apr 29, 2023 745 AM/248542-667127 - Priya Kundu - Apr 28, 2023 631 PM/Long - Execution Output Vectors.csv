@@ -1,0 +1,6 @@
+Interval,Executed Quantity,Percentage of Executed Quantity,Non Executed Quantity,Percentage of Non Executed Quantity,Average Execution Price
+Interval 1,200000,100.0,0,0.0,0.9864026315789474
+Interval 2,10000,3.33,290000,96.67,0.9864055
+Interval 3,0,0.0,200000,100.0,0.9864055
+Interval 4,0,0.0,300000,100.0,0.9864055
+Total Vectors,210000,21.0,790000,79.0,0.9864047828947369
